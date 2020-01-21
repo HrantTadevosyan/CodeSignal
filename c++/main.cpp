@@ -6,6 +6,7 @@
 #include "arcade/make_array_consecutive2.h"
 #include "arcade/add_two_digits.h"
 #include "arcade/largest_number.h"
+#include "arcade/candies.h"
 
 #include "interview_practice/first_duplicate.h"
 #include "interview_practice/first_not_repeating_char.h"
