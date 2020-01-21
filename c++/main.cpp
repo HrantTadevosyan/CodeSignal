@@ -8,6 +8,8 @@
 #include "arcade/largest_number.h"
 #include "arcade/candies.h"
 #include "arcade/seats_in_theater.h"
+#include "arcade/max_multiple.h"
+#include "arcade/circle_of_numbers.h"
 
 #include "interview_practice/first_duplicate.h"
 #include "interview_practice/first_not_repeating_char.h"
