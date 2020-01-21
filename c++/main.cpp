@@ -7,6 +7,7 @@
 #include "arcade/add_two_digits.h"
 #include "arcade/largest_number.h"
 #include "arcade/candies.h"
+#include "arcade/seats_in_theater.h"
 
 #include "interview_practice/first_duplicate.h"
 #include "interview_practice/first_not_repeating_char.h"
