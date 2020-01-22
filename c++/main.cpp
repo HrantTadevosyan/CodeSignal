@@ -22,6 +22,7 @@
 int main() {
 
     std::cout << phoneCall(3, 1, 2, 20) << std::endl;
+    std::cout << phoneCall(1, 2, 1, 6) << std::endl;
 
     return 0;
 }
