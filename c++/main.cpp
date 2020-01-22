@@ -13,6 +13,7 @@
 #include "arcade/circle_of_numbers.h"
 #include "arcade/late_ride.h"
 #include "arcade/phone_call.h"
+#include "arcade/reach_next_level.h"
 
 #include "interview_practice/first_duplicate.h"
 #include "interview_practice/first_not_repeating_char.h"
