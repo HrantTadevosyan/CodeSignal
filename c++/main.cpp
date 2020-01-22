@@ -12,6 +12,7 @@
 #include "arcade/max_multiple.h"
 #include "arcade/circle_of_numbers.h"
 #include "arcade/late_ride.h"
+#include "arcade/phone_call.h"
 
 #include "interview_practice/first_duplicate.h"
 #include "interview_practice/first_not_repeating_char.h"
@@ -19,5 +20,8 @@
 #include "interview_practice/sudoku2.h"
 
 int main() {
+
+    std::cout << phoneCall(3, 1, 2, 20) << std::endl;
+
     return 0;
 }

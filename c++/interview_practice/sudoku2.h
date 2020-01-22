@@ -1,18 +1,6 @@
 //TODO
 #include <vector>
 
-bool sudoku2(std::vector<std::vector<char>> grid) {
-    for (int x = 0; x < grid.size(); x++) 
-        if (!checkLine(grid[x]))
-            return false;
-
-    // for (int y = 0; y < grid.size(); y++) 
-    //     for (int x = 0; x < grid.size(); x++) 
-    //         if (!checkLine(grid[x][y]))
-    //             return false;
-    
-}
-
 bool checkLine(std::vector<char> line) {
     const int n = 9;
     const int ascii = 48;
@@ -27,4 +15,16 @@ bool checkLine(std::vector<char> line) {
             return false;
 
     return true;
-}   
+} 
+
+bool sudoku2(std::vector<std::vector<char>> grid) {
+    for (int x = 0; x < grid.size(); x++) 
+        if (!checkLine(grid[x]))
+            return false;
+    return true;
+    // for (int y = 0; y < grid.size(); y++) 
+    //     for (int x = 0; x < grid.size(); x++) 
+    //         if (!checkLine(grid[x][y]))
+    //             return false;
+    
+}  
