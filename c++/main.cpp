@@ -14,6 +14,7 @@
 #include "arcade/late_ride.h"
 #include "arcade/phone_call.h"
 #include "arcade/reach_next_level.h"
+#include "arcade/knapsack_light.h"
 
 #include "interview_practice/first_duplicate.h"
 #include "interview_practice/first_not_repeating_char.h"
@@ -21,9 +22,6 @@
 #include "interview_practice/sudoku2.h"
 
 int main() {
-
-    std::cout << phoneCall(3, 1, 2, 20) << std::endl;
-    std::cout << phoneCall(1, 2, 1, 6) << std::endl;
 
     return 0;
 }
