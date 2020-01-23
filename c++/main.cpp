@@ -15,6 +15,8 @@
 #include "arcade/phone_call.h"
 #include "arcade/reach_next_level.h"
 #include "arcade/knapsack_light.h"
+#include "arcade/extra_number.h"
+#include "arcade/is_infinite_proccess.h"
 
 #include "interview_practice/first_duplicate.h"
 #include "interview_practice/first_not_repeating_char.h"
