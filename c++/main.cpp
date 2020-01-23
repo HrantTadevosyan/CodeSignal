@@ -20,6 +20,7 @@
 #include "arcade/arithmetic_expression.h"
 #include "arcade/tennis_set.h"
 #include "arcade/will_you.h"
+#include "arcade/metro_card.h"
 
 #include "interview_practice/first_duplicate.h"
 #include "interview_practice/first_not_repeating_char.h"
