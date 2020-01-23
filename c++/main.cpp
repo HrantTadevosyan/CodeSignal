@@ -17,6 +17,7 @@
 #include "arcade/knapsack_light.h"
 #include "arcade/extra_number.h"
 #include "arcade/is_infinite_proccess.h"
+#include "arcade/arithmetic_expression.h"
 
 #include "interview_practice/first_duplicate.h"
 #include "interview_practice/first_not_repeating_char.h"
