@@ -27,6 +27,8 @@
 #include "interview_practice/rotate_image.h"
 #include "interview_practice/sudoku2.h"
 
+#include "challenges/is_power_of_2.h"
+
 int main() {
 
     return 0;
