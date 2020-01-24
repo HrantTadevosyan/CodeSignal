@@ -26,6 +26,8 @@
 #include "interview_practice/first_not_repeating_char.h"
 #include "interview_practice/rotate_image.h"
 #include "interview_practice/sudoku2.h"
+#include "interview_practice/has_path_with_given_sum.h"
+#include "interview_practice/bubble_sort.h"
 
 #include "challenges/is_power_of_2.h"
 
