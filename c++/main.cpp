@@ -32,6 +32,9 @@
 #include "challenges/is_power_of_2.h"
 #include "challenges/reverse_integer.h"
 
+#include "company_challenges/launch_sequence_checker.h"
+
+
 int main() {
 
     return 0;
