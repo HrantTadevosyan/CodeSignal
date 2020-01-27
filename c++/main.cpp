@@ -30,6 +30,7 @@
 #include "interview_practice/bubble_sort.h"
 
 #include "challenges/is_power_of_2.h"
+#include "challenges/reverse_integer.h"
 
 int main() {
 
